@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "512759533786",
+    "project_id": "aesthetic-shop-5d755",
+    "storage_bucket": "aesthetic-shop-5d755.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512759533786:android:422f7f31c01d9ea8ebd5e3",
+        "android_client_info": {
+          "package_name": "com.example.aesthetic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512759533786-vnc5i4olbilr29tmklbk18e8q03hdds0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbpaNXAVwRyMoa2oWzdiDX7Stad5s1QA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512759533786-vnc5i4olbilr29tmklbk18e8q03hdds0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
